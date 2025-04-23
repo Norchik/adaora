@@ -1,0 +1,12 @@
+.{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+    background-image: url(image/istockphoto-2168502212-1024x1024.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 100vh;
+}
